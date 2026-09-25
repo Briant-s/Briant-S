@@ -1,8 +1,9 @@
 ## Nice seeing you here 😎️ 
 
-<br>
+### Briant Sandriano
+🏫️ Currently Studying **B.S.** in **Computer Science** at [@Binus University](https://binus.ac.id/) <br>
+🌱 Current Projects: [AI File Renamer & Organizer Tool, Python] [Jakarta Air Quality Forecasting, Data Mining/DS]
 
-Hi I'm Briant, I'm currently a student at @Binus University studying Computer Science<br><br>
 
 
 ### 🖥️ Tools I Use:
