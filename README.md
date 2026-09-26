@@ -2,7 +2,7 @@
 
 ### Briant Sandriano
 🏫️ Currently Studying **B.S.** in **Computer Science** at [@Binus University](https://binus.ac.id/) <br>
-🌱 Current Projects: [AI File Renamer & Organizer Tool, Python] [Jakarta Air Quality Forecasting, Data Mining/DS]
+🌱 Current Projects: ![AI File Renamer & Organizer Tool, Python](https://github.com/Briant-s/file_renamer_organizer) | [Jakarta Air Quality Forecasting, Data Mining/DS]
 
 
 
