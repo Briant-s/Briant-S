@@ -12,9 +12,9 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <td><img src="https://streak-stats.demolab.com/?user=Briant-s&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
-  <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Briant-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
-</p>
+
+<div align="left">
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=Briant-s&theme=dracula" alt="GitHub Stats" />
+</div>
 
 ---
